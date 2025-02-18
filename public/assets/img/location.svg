@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="Trips_ICO" data-name="Trips ICO" transform="translate(0 -0.519)">
+    <g id="pin" transform="translate(0 0.42)">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="14" height="14" transform="translate(0 0.099)" fill="#111" opacity="0"/>
+      <path id="Tracé_7" data-name="Tracé 7" d="M8.8,2A4.8,4.8,0,0,0,4,6.756c0,3.29,4.233,6.953,4.413,7.109a.6.6,0,0,0,.781,0c.21-.156,4.413-3.819,4.413-7.109A4.8,4.8,0,0,0,8.8,2Zm0,10.6c-1-.955-3.6-3.6-3.6-5.842a3.6,3.6,0,0,1,7.205,0C12.406,8.977,9.806,11.643,8.8,12.6Z" transform="translate(-1.598 -1.11)" fill="#111"/>
+      <path id="Tracé_8" data-name="Tracé 8" d="M10.6,6a2.1,2.1,0,1,0,2.1,2.1A2.1,2.1,0,0,0,10.6,6Zm0,3a.9.9,0,1,1,.9-.9A.9.9,0,0,1,10.6,9Z" transform="translate(-3.396 -2.709)" fill="#111"/>
+    </g>
+  </g>
+</svg>

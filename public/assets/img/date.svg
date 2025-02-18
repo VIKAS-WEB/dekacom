@@ -1,0 +1,13 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" width="10.25" height="10.25" viewBox="0 0 10.25 10.25">
+  <g id="Groupe_190" data-name="Groupe 190" transform="translate(4.721 3.716)">
+    <path id="Tracé_15" data-name="Tracé 15" d="M23.8,20.07l1.845-1a.5.5,0,0,0,.164-.7h0a.5.5,0,0,0-.7-.164l-1.845,1a.5.5,0,0,0-.164.7h0A.487.487,0,0,0,23.8,20.07Z" transform="translate(-23.028 -18.128)" fill="#111"/>
+  </g>
+  <g id="Groupe_193" data-name="Groupe 193">
+    <g id="Groupe_191" data-name="Groupe 191">
+      <path id="Tracé_16" data-name="Tracé 16" d="M5.125,0A5.125,5.125,0,1,0,10.25,5.125,5.127,5.127,0,0,0,5.125,0Zm0,9.225a4.1,4.1,0,1,1,4.1-4.1A4.112,4.112,0,0,1,5.125,9.225Z" fill="#111"/>
+    </g>
+    <g id="Groupe_192" data-name="Groupe 192" transform="translate(2.593 2.675)">
+      <path id="Tracé_17" data-name="Tracé 17" d="M13.5,13.182a.508.508,0,0,0-.677.759l2.132,2.05a.508.508,0,1,0,.676-.759Z" transform="translate(-12.648 -13.048)" fill="#111"/>
+    </g>
+  </g>
+</svg>

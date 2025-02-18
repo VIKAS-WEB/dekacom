@@ -1,0 +1,36 @@
+.cnx-wrapper .box:hover {
+  color: var(--primary-color);
+  transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+/********* Scroll bar css *************/
+
+/* width */
+.search-wrapper ::-webkit-scrollbar {
+  width: 10px !important;
+}
+
+/* Track */
+.search-wrapper ::-webkit-scrollbar-track {
+  /* box-shadow: inset 0 0 5px grey !important;  */
+  background: #3acce1;
+  border-radius: 2px !important;
+}
+
+/* Handle */
+.search-wrapper ::-webkit-scrollbar-thumb {
+  background: #000000;
+  border-radius: 2px !important;
+}
+
+/* Handle on hover */
+.search-wrapper ::-webkit-scrollbar-thumb:hover {
+  background: #d08401 !important;
+}
+.box-shadow-black-header-top {
+  box-shadow: -2px 20px 12px -3px rgba(0, 0, 0, 0.199);
+}
+.box-shadow-black-header-bottom {
+  box-shadow: -2px 0 12px -3px rgba(0, 0, 0, 0.199);
+}

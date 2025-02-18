@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="401.001" height="392" viewBox="0 0 401.001 392">
+  <defs>
+    <filter id="Soustraction_12" x="0" y="0" width="401.001" height="392" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Composant_1_1" data-name="Composant 1 – 1" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Soustraction_12)">
+      <path id="Soustraction_12-2" data-name="Soustraction 12" d="M376,374H7a7.008,7.008,0,0,1-7-7V282H.009a17.852,17.852,0,0,0,7-1.414,17.931,17.931,0,0,0,5.721-3.857,17.931,17.931,0,0,0,3.857-5.721,18.057,18.057,0,0,0,0-14.013,17.938,17.938,0,0,0-3.857-5.721,17.918,17.918,0,0,0-5.721-3.857A17.888,17.888,0,0,0,0,246V7A7.008,7.008,0,0,1,7,0H376a7.008,7.008,0,0,1,7,7V246h-.009A18,18,0,1,0,383,282v85A7.008,7.008,0,0,1,376,374Z" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <path id="Tracé_3725" data-name="Tracé 3725" d="M498.455,793.492H812.391" transform="translate(-463.922 -530.492)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="2"/>
+  </g>
+</svg>

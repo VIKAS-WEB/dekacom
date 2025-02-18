@@ -1,0 +1,5 @@
+.banner {
+  background-size: cover;
+  background-position: bottom;
+  background-image: url("../../../../public/images/header-bg.jpg");
+}

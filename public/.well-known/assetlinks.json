@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.quadradiffusion.ticketpromo",
+    "sha256_cert_fingerprints": ["71:85:37:74:E5:10:86:34:3C:47:02:34:22:57:FE:07:35:BA:01:6E:48:39:D1:39:02:80:EC:6F:0F:67:CF:18"]
+  }
+}]
