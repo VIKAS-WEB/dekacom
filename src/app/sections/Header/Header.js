@@ -29,6 +29,7 @@ import { GoHomeFill } from "react-icons/go";
 import Burger from "../../../../public/assets/img/icon/burger-responsive.png";
 import SearchBar from "@/app/components/SearchBar/SearchBar";
 import Inscription from "@/app/components/Inscription/Inscription";
+import logoImg from '../../../../public/images/logo.png'
 
 const Header = () => {
   const router = useRouter();
@@ -81,7 +82,7 @@ const Header = () => {
                 }
               >
                 <Image
-                  src="/../../images/logo.png"
+                  src=""
                   alt="SmartReduc"
                   className="w-20 mb-8"
                   width={80}
@@ -148,7 +149,7 @@ const Header = () => {
             <div className="logo">
               <Link href="/">
                 <Image
-                  src="/../../images/logo.png"
+                  src={logoImg}
                   alt="SmartReduc"
                   className="w-20"
                   width={80}
@@ -213,7 +214,7 @@ const Header = () => {
             </div>
             <div>
               <Image
-                src="/../../images/logo.png"
+                src={logoImg}
                 alt="SmartReduc"
                 className="w-14 mx-auto"
                 width={56}
@@ -258,7 +259,7 @@ const Header = () => {
             </div>
             <div>
               <Image
-                src="/../../images/logo.png"
+                src={logoImg}
                 alt="SmartReduc"
                 className="w-14 mx-auto"
                 width={56}
@@ -309,7 +310,7 @@ const Header = () => {
               <div className="logo">
                 <Link href="/">
                   <Image
-                    src="/../../images/logo.png"
+                    src={logoImg}
                     alt="SmartReduc"
                     className="w-14 mx-auto"
                     width={56}
